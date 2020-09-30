@@ -21,7 +21,7 @@ The following tools were used in the construction of the project:
 
 ### How to Use
 
-* Acess https://openweathermap.org/ and create a Login, then search a API KEY.
+* Access https://openweathermap.org/ and create a Login, then search a API KEY.
 * Put you API KEY in main.js  
 
 ### Pictures 
