@@ -1,5 +1,5 @@
 // Tutorial by http://youtube.com/CodeExplained
-// api key : 4dcea32dc182951eb230c6a962d8024c
+
 
 //Selecting all elements
 const iconElement = document.querySelector(".weather-icon");
@@ -20,7 +20,7 @@ weather.temperature = {
 const KELVIN = 273;
 
 //Api Key
-const key = "4dcea32dc182951eb230c6a962d8024c";
+const key = "";
 
 //Check if Browser Support Geolocation
 if("geolocation" in navigator) {
