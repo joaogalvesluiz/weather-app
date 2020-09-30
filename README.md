@@ -19,4 +19,4 @@ The following tools were used in the construction of the project:
 ### Pictures 
   App View
 
-  <img alt="Weather App" title="#Weather App" src="./images/weather.app.png" />
+  <img alt="Weather App" title="#Weather App" src="images/weather-app.png" />
