@@ -17,7 +17,8 @@ following this tutorial
 The following tools were used in the construction of the project:
 
 * Javascript
-* Geolocation (https://openweathermap.org/)
+* Geolocation 
+* Weather API (https://openweathermap.org/)
 
 ### How to Use
 
